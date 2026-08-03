@@ -89,14 +89,10 @@ A machine-learning application that generates personalised five-day workout plan
 
 ---
 
-## Achievements and Activities
+## Additional Highlights
 
 - Earned **20+ Google Skill Badges**
 - Advanced to the **ABC Round of the Cognizant Technoverse Hackathon**
-- Participated in **AngelHack**, developing a freelance web-platform prototype during a 24-hour team event
-- Completed three months of offline training in **Java, OOP and Data Structures**
-- Participated in **Google AI Study Jams and Build with AI**
-
 ---
 
 <p align="center">

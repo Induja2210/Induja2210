@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>
-    Computer Science (AI & ML) Undergraduate | Software Engineering • Applied AI • Data-Driven Systems
+    CSE (AI & ML) Undergraduate | Software Engineering • Applied AI
   </strong>
 </p>
 

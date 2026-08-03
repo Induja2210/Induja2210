@@ -53,11 +53,11 @@ My work focuses on developing practical software systems that combine machine le
 
 ---
 
-## Selected Projects
+## Featured Projects
 
 ### CodePilot AI — LLM-Powered Code Analysis Platform
 
-A full-stack platform that allows users to upload multiple source-code files or complete project folders and receive AI-assisted analysis.
+A full-stack platform that allows users to upload complete project folders and receive AI-assisted code analysis.
 
 - Developed a React frontend and FastAPI backend connected through REST APIs.
 - Implemented code explanation, project summarisation, technology-stack detection, bug detection and optimisation recommendations.

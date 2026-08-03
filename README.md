@@ -24,10 +24,7 @@
 
 ## About Me
 
-I am a B.Tech Computer Science and Engineering student specialising in Artificial Intelligence and Machine Learning at Jain (Deemed-to-be) University.
-
-I develop practical software systems that combine machine-learning models, backend services, REST APIs and responsive interfaces. My primary interests are **Software Engineering, Applied AI and Data Analytics**.
-
+I’m a B.Tech CSE (AI & ML) student at Jain University, building full-stack and AI-powered applications using backend APIs, machine learning and responsive interfaces.
 - **CGPA:** 9.0/10
 - **Focus areas:** Full-stack development, machine learning, Generative AI and data-driven applications
 

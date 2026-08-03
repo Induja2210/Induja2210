@@ -12,16 +12,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/induja-b-226879295/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Induja437@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Induja437%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/Induja2210/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
 </p>
-
 ---
 
 ## About Me

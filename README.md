@@ -26,8 +26,7 @@
 
 I’m a B.Tech CSE (AI & ML) student at Jain University, building full-stack and AI-powered applications using backend APIs, machine learning and responsive interfaces.
 - **CGPA:** 9.0/10
-- **Focus areas:** Full-stack development, machine learning, Generative AI and data-driven applications
-
+- **Interests:** Software Engineering, Applied AI and Data Analytics
 ---
 
 ## Technical Profile

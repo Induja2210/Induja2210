@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
   </a>
 </p>
----
 
 ## About Me
 

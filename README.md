@@ -1,4 +1,4 @@
-## Hey there, I'm Induja!
+## Hey there! I'm Induja
 
 Computer Science Engineering student (AI & ML) at Jain University, Bangalore. I build full-stack AI products: ML models, the APIs that serve them, and the dashboards people use.
 
